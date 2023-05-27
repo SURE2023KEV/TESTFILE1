@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class Chaining {
-    
+    //s
      public int m; // number of SLOTS 
      public int A; // the default random number
      int w;
